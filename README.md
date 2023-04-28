@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/themushfiq/Images-Icons/main/readmeImages/goku-power-up.gif)]
+![MasterHead](https://raw.githubusercontent.com/themushfiq/Images-Icons/main/readmeImages/goku-power-up.gif)
 <h1 align="center">Hi 👋, I'm Mushfiq</h1>
 <h3 align="center">I'm a MERN Stack Web Developer & Graphic Designer studying BSC in CSE</h3>
 <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/themushfiq/Images-Icons/main/readmeImages/readmebgi.gif">
