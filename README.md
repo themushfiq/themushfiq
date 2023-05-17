@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themushfiq&label=Profile%20views&color=0e75b6&style=flat" alt="themushfiq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/themushfiq" target="blank"><img src="https://img.shields.io/twitter/follow/themushfiq?logo=twitter&style=for-the-badge" alt="themushfiq" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN, Graphic**
